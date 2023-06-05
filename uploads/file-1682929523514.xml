@@ -1,0 +1,7 @@
+<service>
+<id>TransportManagement</id>
+<name>TransportManagement</name>
+<description>TransportManagement</description>
+<executable>java</executable>
+<arguments>-jar TransportManagement.jar</arguments>
+</service>
